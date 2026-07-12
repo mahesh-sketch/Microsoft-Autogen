@@ -1,0 +1,19 @@
+dotenv
+asyncio
+aiohttp
+json-schema-to-pydantic
+
+# langchain
+langchain-openai
+langchain_community
+
+# Azure services
+azure-identity
+azure-keyvault-secrets
+azure-ai-inference
+
+# Autogen Services
+autogen-agentchat
+autogen-core
+autogen-ext
+pyautogen
